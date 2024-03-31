@@ -1,0 +1,422 @@
+
+body{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:0px;
+	margin-bottom: 10px;
+    height: 0px;
+	background-image:url(https://www.ufoinsight.com/wp-content/uploads/2018/06/yellow-2817102_1920.jpg) ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	color: #FFFFFF;
+	
+	
+
+}
+
+.contenetor{
+	width:100%;
+	max-width:1200px;
+	height: 700px;
+	display: flex;
+	justify-content:center;
+	margin: auto;
+	
+}
+
+.contenetor .card{
+	width:330px;
+	height:430px;
+	border-radius:8px;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0);
+	overflow: hidden;
+	margin:20px;
+	text-align:center;
+	
+	
+}
+
+
+
+.contenetor .card:hover{
+	
+	box-shadow: o 12px 16px rgba(0, 0, 0, 0.2);
+
+}
+
+.contenetor .card h1{
+	font-weight: 600;
+	
+}
+.contenetor .card p{
+	padding:0 1rem;
+	font-size:16px;
+	font-weight:300;
+}
+
+
+.letras{ 
+	font-size:20px;
+	text-align: left;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.dos{
+	font-size:25px;
+	
+}
+
+header{
+	
+	
+overflow: hidden;	
+}
+
+
+footer{
+	float:left;
+
+}
+
+.holi{
+	color: black;
+}
+.encuadre{
+	height: 1.5cm;
+	width: 12cm;
+	background: purple;
+	color: rgb(10, 10, 10);
+	border: 4px solid black;
+}
+.encuadresito{
+	height: 1cm;
+	width: 15cm;
+	background: plum;
+	border: 1px solid purple;
+	color: black 	          ;
+	
+}
+aside#izquierda{ 
+	float: left;
+}
+
+aside#derecha{ margin-bottom:1px;
+	float: right;
+	width: 400px;
+	margin-left:2px ;
+	margin-right:2px;
+}
+
+
+.tabla{
+float:right;
+position:relative;
+bottom:286px;
+
+}
+
+ .tabla h1{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: left;
+}
+
+.leter h1{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: left;
+}
+
+.tabla p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:larger;
+}
+
+.leter p{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:larger;
+	
+}
+
+.organizar p{
+margin-top: 0;
+margin-bottom:0;
+text-align:left;
+
+
+
+}
+
+.leter {
+	
+	margin-right:10px;
+}
+
+
+.tables label{
+	border-color: blue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:20px;
+
+}
+
+.tables input{
+	font-size: 25px;
+	color: rgb(64, 64, 255);
+	background-color: #D3BCF6;
+	text-align: left;
+	
+
+
+
+}
+
+
+.cuad{
+
+	background-color: #B57EDC;
+	color: white;
+}
+.cuad p{
+	text-align: left;
+	border: radius 10px;;
+}
+
+
+
+.colors{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	color: rgb(64, 64, 255);
+}
+
+.ss{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: black;
+	font-size: 15px;
+	align-items: center
+	
+}
+.fondo5{
+	background: #B57EDC;
+	color: white;
+	border: 1px solid black;
+
+}
+
+.tables ul li{
+text-align:left;
+}
+
+.tables{
+	border-radius: 4%;
+	box-shadow: black;
+	height: 10cm;
+	width: 15cm;
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tables1{
+	border-radius: 4%;
+	box-shadow: black;
+	height: 7cm;
+	width: 15cm;
+	background-color: white;
+
+}
+
+.tables1 p{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cuadro{
+	height: 9cm;
+	width: 12cm;
+	background: hotpink;
+	color: black;
+	border: 4px solid black;
+}
+
+.pintar{
+	background-color: white;
+}
+
+
+.pie-pagina{
+	width: 100%;
+	background-color: grey;
+
+}
+.pie-pagina .grupo-1{
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(3 ,1fr);
+	grid-gap: 45px;
+	padding:9px 0px;
+	color: white;
+}
+
+
+.fondo1{
+	height: 3cm;
+	width: 30cm;
+	background: #4472C4;
+	border: 2px solid black;
+}
+
+.fondo2{
+
+	background: #B57EDC;
+	color: white;
+	border: 2px solid black;
+}
+
+.fondo6{
+	opacity: 0px;
+	color: white;
+	border: 2px solid black;
+}
+.fondo3{
+    width: 28cm;
+	background:white;
+	color: white;
+	border: 2px solid black;
+}
+
+.fondo4{
+	width: 24cm;
+	background: #BDD7EE;
+	color: #BDD7EE;
+	border: 2px solid black;
+}
+
+.fondo-iniciarsesion{
+
+	background: #B57EDC;
+	color: white;
+	border: 2px solid black;
+}
+.fondo-iniciarsesion1{
+	height: 12cm;
+    width: 15cm;
+	background:white;
+	color: white;
+	border: 2px solid black;
+	border-radius: 6%;
+}
+
+.fondo-registrar{
+
+	background: #B57EDC;
+	color: white;
+	border: 2px solid black;
+}
+.fondo-registrar1{
+	height: 15cm;
+    width: 18cm;
+	background:white;
+	color: white;
+	border: 2px solid black;
+	border-radius: 6%;
+}
+
+.fondo3-{
+    width: 28cm;
+	background:white;
+	color: white;
+	border: 2px solid black;
+}
+
+.fondo4-{
+	width: 24cm;
+	background: #BDD7EE;
+	color: #BDD7EE;
+	border: 2px solid black;
+}
+.cuadro2{
+	height: 10cm;
+	width: 25cm;
+	background: rgb(222, 181, 238);
+	color: black;
+	border: 4px solid rgb(222, 181, 238);
+}
+.cuadro3{
+
+	font-size: 14px;
+	background: rgb(255, 255, 255);
+	color: black;
+	border: 4px solid rgb(255, 255, 255);
+	width:30%;
+    margin:75px;
+    padding:20px;
+	border-radius:14px;
+
+}
+
+.cuadro3 p{
+       font-family: Arial, Helvetica, sans-serif;
+}
+
+.cuadro4{
+	height: 7cm;
+	width: 14cm;
+	font-size: 15px;
+	background: rgb(255, 255, 255);
+	color: black;
+	border-radius:6% ;
+}
+.cuadro5{
+	height: 7cm;
+	width: 14cm;
+	background: rgb(255, 255, 255);
+	color: black;
+	border-radius:6% ;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+	color: black;
+}
+
+.container p{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.container h1{
+	color: black;
+}
+
+.left-column, .right-column {
+    width: 45%;
+}
+
+.left-box, .right-box {
+    background-color: rgb(175, 158, 175);
+    color: #9e5050;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  
+}
+
+.left-column .left-box {
+    float: left;
+    clear: left;
+    width: 100%;
+}
+
+.right-column .right-box {
+    float: right;
+    clear: right;
+    width: 100%;
+}
+
